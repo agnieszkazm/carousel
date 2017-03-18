@@ -11,4 +11,5 @@ $(document).ready(function(){
 	};
 	setInterval(changeSlide, 3000);
 
+
 });
