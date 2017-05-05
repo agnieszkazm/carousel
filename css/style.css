@@ -44,3 +44,19 @@ ul li p {
 	background-color:rgba(255,255,255,0.8);
 	margin: 0px;
 }
+.arrows  {
+	justify-content: space-between;
+	align-items: center;
+	cursor: pointer;
+	display: flex;
+	text-shadow: 2px 2px 2px #000000;
+	position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.fa {
+    font-size: 40px;
+    color: #ebebe0;
+}
